@@ -77,3 +77,53 @@ There are many things left to learn, many ideas left to explore and many things 
 🤖 AI & Machine Learning Explorer
 ⚡ Electronics & Engineering Enthusiast
 🌍 Global-minded Learner
+Computer Fundamentals
+        │
+        ▼
+Programming Fundamentals
+        │
+        ▼
+Web Technologies
+        │
+        ▼
+Cybersecurity
+        │
+        ▼
+Artificial Intelligence
+        │
+        ▼
+Machine Learning
+        │
+        ▼
+Algorithms & Data Structures
+        │
+        ▼
+Electronics & Engineering
+        │
+        ▼
+Real-world Projects
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jahedul-Hasan-web&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahedul-Hasan-web&layout=compact&hide_border=true" /> </div>
+🌐 Connect With Me
+<div align="center">
+Let's connect, learn and build.
+<br> <a href="https://www.facebook.com/Jahedulhasanja"> <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.instagram.com/jahedul_hasan_j"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="YOUR_TWITTER_URL"> <img src="https://img.shields.io/badge/X%20%2F%20Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/> </a> </div>
+<div align="center">
+✨ A Little More About Me
+
+Curious mind. Practical learner. Beginner engineer.
+
+I don't have everything figured out yet.
+
+And that's okay.
+
+Because every skill starts with a first attempt,
+every project starts with an idea,
+and every journey starts somewhere.
+
+<br>
+Stay Curious • Keep Learning • Keep Building
+<br>
